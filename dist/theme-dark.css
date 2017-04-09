@@ -6,6 +6,14 @@
   color: #303030;
   background-color: #727272;
 }
+body {
+  background-color: #303030;
+  color: #ffffff;
+  font-family: Roboto, Lato, sans-serif;
+}
+a {
+  color: #f39800;
+}
 .mu-badge {
   background-color: #757575;
   color: #303030;
@@ -15,16 +23,8 @@
   color: #303030;
 }
 .mu-badge-secondary {
-  background-color: #ff4081;
+  background-color: #f39800;
   color: #303030;
-}
-body {
-  background-color: #303030;
-  color: #ffffff;
-  font-family: Roboto, Lato, sans-serif;
-}
-a {
-  color: #ff4081;
 }
 .mu-bottom-nav {
   background-color: #424242;
@@ -188,7 +188,7 @@ a {
   color: #0288d1;
 }
 .mu-flat-button-secondary {
-  color: #ff4081;
+  color: #f39800;
 }
 .mu-float-button {
   background-color: #0288d1;
@@ -204,7 +204,7 @@ a {
   background-color: rgba(48, 48, 48, 0.3);
 }
 .mu-float-button-secondary {
-  background-color: #ff4081;
+  background-color: #f39800;
   color: #303030;
 }
 .mu-grid-tile-titlebar {
@@ -220,7 +220,7 @@ a {
   border-color: #0288d1;
 }
 .mu-circle-secondary {
-  border-color: #ff4081;
+  border-color: #f39800;
 }
 .mu-linear-progress {
   background-color: #757575;
@@ -259,7 +259,7 @@ a {
   color: #ffffff;
 }
 .mu-menu-item-wrapper.active {
-  color: #ff4081;
+  color: #f39800;
 }
 .mu-menu-item-wrapper.hover {
   background-color: rgba(0, 0, 0, 0.1);
@@ -351,7 +351,7 @@ a {
   background-color: #0288d1;
 }
 .mu-raised-button-secondary {
-  background-color: #ff4081;
+  background-color: #f39800;
 }
 .mu-refresh-control {
   color: #0288d1;
@@ -482,7 +482,7 @@ a {
   background-color: #0288d1;
 }
 .mu-tab-link-highlight {
-  background-color: #ff4081;
+  background-color: #f39800;
 }
 .mu-tab-link {
   color: rgba(48, 48, 48, 0.7);

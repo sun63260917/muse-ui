@@ -8,6 +8,7 @@
         <div class="mu-item-left" v-if="showLeft">
           <slot name="left"></slot>
           <slot name="leftAvatar"></slot>
+          <slot name="leftAvatarStatus"></slot>
         </div>
         <div class="mu-item-content">
           <div class="mu-item-title-row" v-if="showTitleRow">
